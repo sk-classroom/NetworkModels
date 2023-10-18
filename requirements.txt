@@ -1,0 +1,14 @@
+igraph
+cairocffi
+scikit-learn
+numpy
+scipy
+pandas
+polars
+networkx
+seaborn
+matplotlib
+ipykernel
+tqdm
+black
+nbconvert
